@@ -73,16 +73,21 @@ Key Fixes in the Modified Code
 -No changes to logic—calculations remain the same.
 
 Technical Debt Report
+
 1. Technical Debt Identified
 Before the refactoring, the following technical debt was present:
 
 Code Formatting Issues: Incorrect indentation made the function invalid.
 Readability Concerns: Lack of proper structure made it harder to understand.
 Maintainability Risk: Any further modifications could introduce errors due to improper formatting.
+
+
 2. Refactoring Improvements Made
 Applied correct indentation to ensure the script runs without syntax errors.
 Improved readability so that future modifications and debugging are easier.
 No unnecessary code changes, ensuring the script remains functionally the same.
+
+
 3. Challenges Faced & Solutions
 Challenge	Solution
 Indentation errors causing the script to be unreadable	Applied proper indentation to function blocks
